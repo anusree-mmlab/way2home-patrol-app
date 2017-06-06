@@ -7,4 +7,4 @@ An app for the patrol staff to keep track of the navigation path, they travelled
 
 #The app has features including - Google map with current location, Location tracking, plotting tracked locations etc
 
-#NB: The feature list will be bigger as the app grows..
+#NB: The feature list will be bigger as the app grows.
